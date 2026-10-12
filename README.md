@@ -1,4 +1,6 @@
 
+<img src="Smart%20Study%20Assistant%20Banner.png" alt="Eidaah Smart Study Assistant" width="100%">
+
 # Eidaah | إيضاح
 
 ### AI-Powered Learning & Study Assistant
